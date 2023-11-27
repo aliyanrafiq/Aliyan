@@ -1,0 +1,15 @@
+.container{
+    background-color: #2c5f63 !important;
+    width: 100px !important;
+    color: #fffeff;
+}
+
+.Salah{
+    background-color: aqua;
+    display: flex;
+}
+
+img{
+    width: 50px;
+    margin-top: 10px;
+}
